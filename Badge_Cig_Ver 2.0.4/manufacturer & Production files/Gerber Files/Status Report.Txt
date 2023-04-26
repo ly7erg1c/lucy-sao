@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Badge_Cig.PrjPcb]
+   Generated File[Badge_Cig_PCB-RoundHoles.TXT]
+   Generated File[Badge_Cig_PCB-SlotHoles.TXT]
+   Generated File[Badge_Cig_PCB.LDP]
+   Generated File[Badge_Cig_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:47:41 PM On 7/8/2022

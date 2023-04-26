@@ -1,0 +1,4 @@
+Designator,Layer,Center-X(mm),Center-Y(mm),Rotation
+J1,BottomLayer,44.2976mm,264.7696mm,270
+R1,BottomLayer,39.3954mm,266.4587mm,180
+LED,BottomLayer,35.2044mm,274.6502mm,270

@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Badge_Cig_PCB.PcbDoc   7/8/2022  9:47:41 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Badge_Cig_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Badge_Cig_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.899mm)                                           Slot              1         PTH        0.01inch (0.20mm)
+T2      39mil (1.001mm)                                           Round             4         PTH        0.30inch (7.62mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              5
+
+Total Processing Time (hh:mm:ss) : 00:00:00
